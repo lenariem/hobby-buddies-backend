@@ -1,7 +1,10 @@
 # Fullstack App(MERN) to connect people by different hobbies
 **to take a look please click this link:** 
 
-https://
+https://hobby-buddies-frontend.vercel.app/
+
+## Frontend Repo:
+https://github.com/lenariem/hobby-buddies-frontend
 
 ### Technologies used: 
 * ReactJS;
@@ -18,4 +21,7 @@ https://
 * fill, edit and delte profile;
 * post messages in community chat;
 * like / dislike posts from other users;
+
+
+
 
